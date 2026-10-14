@@ -1,0 +1,33 @@
+{
+  "name": "Prueba Escrita Mercado Informático",
+  "short_name": "Prueba Informática",
+  "start_url": "index.php",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#a78bfa",
+  "description": "Aplicación para realizar pruebas escritas de Mercado Informático evaluadas por IA.",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot-mobile.png",
+      "sizes": "320x640",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Vista móvil de la evaluación"
+    },
+    {
+      "src": "screenshot-desktop.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Vista de escritorio de la evaluación"
+    }
+  ]
+}
